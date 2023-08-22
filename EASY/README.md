@@ -2,7 +2,7 @@
 
 495\. [Teemo Attacking](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/findPoisonedDuration.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/findPoisonedDuration.py)<br />
 496\. [Next Greater Element I](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/findNextGreater.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/findNextGreater.py)<br />
-501\. [Find Mode in Binary Search Tree]() || [Solution]()<br />
+501\. [Find Mode in Binary Search Tree](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/findMode.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/findMode.py)<br />
 
 **2023-08-22**
 
