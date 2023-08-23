@@ -11,4 +11,4 @@
 
 **2023-08-23**
 
-507\. [Perfect Number]() || [Solution]()<br />
+507\. [Perfect Number](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/checkPerfectNumber.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/checkPerfectNumber.py)<br />
