@@ -8,3 +8,7 @@
 
 504\. [Base 7](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/convertToBase7.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/convertToBase7.py)<br />
 506\. [Relative Ranks](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/findRelativeRanks.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/findRelativeRanks.py)<br />
+
+**2023-08-23**
+
+507\. [Perfect Number]() || [Solution]()<br />
