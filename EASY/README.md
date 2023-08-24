@@ -15,4 +15,4 @@
 
 **2023-08-24**
 
-509\. [Fibonacci Number]() || [Solution]()<br />
+509\. [Fibonacci Number](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/fib.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/fib.py)<br />
