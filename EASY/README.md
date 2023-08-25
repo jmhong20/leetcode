@@ -20,3 +20,4 @@
 **2023-08-25**
 
 521\. [Longest Uncommon Subsequence I](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/findLUSlength.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/findLUSlength.py)<br />
+530\. [Minimum Absolute Difference in BST]() || [Solution]()<br />
