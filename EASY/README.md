@@ -23,4 +23,5 @@
 530\. [Minimum Absolute Difference in BST](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/getMinimumDifference.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/getMinimumDifference.py)<br />
 
 **2023-09-10**
+
 551\. [Student Attendance Record I]() || [Solution]()<br />
