@@ -24,4 +24,4 @@
 
 **2023-09-10**
 
-551\. [Student Attendance Record I]() || [Solution]()<br />
+551\. [Student Attendance Record I](https://github.com/jmhong20/leetcode/blob/main/EASY/Problems/checkRecord.md) || [Solution](https://github.com/jmhong20/leetcode/blob/main/EASY/Solutions/checkRecord.py)<br />
